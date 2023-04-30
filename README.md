@@ -8,7 +8,7 @@ Generate Audio from Text and Prompt(Chat-GPT Support)
 ```shell
 conda create -n audioldm python=3.8; conda activate audioldm
 pip3 install audioldm
-git clone https://github.com/saba99/TEXT-To-Audio-Accoustic; cd AudioLDM
+git clone https://github.com/saba99/Text-To-Audio-ChatGPT; cd AudioLDM
 ```
 2. Start the web application (powered by Gradio)
 ```shell
