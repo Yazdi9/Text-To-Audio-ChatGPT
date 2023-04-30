@@ -1,0 +1,62 @@
+https://audioldm.github.io/
+
+Short Samples:
+A man is speaking under the water.
+Two space shuttles are fighting in the space
+The sound of a steam engine.
+
+Long Samples:
+
+Cat gently meowing and purring in long intervels.
+Peaceful and calming ambient music with singing bowl and other instruments.
+Nature environmental noise with various bird vocalization, high fidelity, children playing far away and light wind.
+
+Material Control:
+
+Chopping meat on a wooden table.
+Chopping tomatos on a wooden table
+Chopping potatos on a metal table
+
+Acoustic Environment Control:
+
+A man is speaking in a huge room.
+A man is speaking in a small room.
+A man is speaking in a studio.
+
+Temporal Order Control:
+
+A female is speaking followed by footstep sound.
+A racing car is passing by and disappear.
+Wooden table tapping sound followed by water pouring sound
+
+
+Label-to-Audio Generation:
+
+A capella
+Eruption
+Babbling
+Gasp
+
+Generate music with: "A music is made by []".
+
+
+hUMAN Question For Chat-GPT
+
+Describe the sound of the battlefiled
+Describe what does a pop music sound
+Describe the sound of the ocean
+Describe the sound of the outer space
+Describe what does a dance music sound with at most 30 words
+Describe the sound of the factory
+Describe what does a scary music sound with at most 30 words
+
+Simplified ChatGPT Answer
+
+Battlefield scene, continuous roar of artillery and gunfire, high fidelity, the sharp crack of bullets, the thundering explosions of bombs, and the screams of wounded soldiers.
+Pop music that upbeat, catchy, and easy to listen, high fidelity, with simple melodies, electronic instruments and polished production.
+The steady crashing of waves against the shore,high fidelity, the whooshing sound of water receding back into the ocean, the sound of seagulls and other coastal birds, and the distant sound of ships or boats.
+Radio emissions from stars, planets, galaxies and other celestial bodies, high fidelity, as well as the sounds of solar winds and cosmic rays.
+Dance music with strong, upbeat tempo, and repetitive rhythms, include sub-genres like house, techno, EDM, trance, and many more.
+Loud and chaotic. Hum and buzz of machinery such as power tools, high fidelity. Clanking and clattering of metal parts, the whirring of motors and engines, and the beeping and alarms of various instruments.
+Scary music with dissonant harmonies, irregular rhythms, and unconventional use of instruments.
+
